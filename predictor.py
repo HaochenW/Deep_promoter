@@ -28,9 +28,9 @@ def parse_args():
     return args
 
 
-class PREDICT():   #对大文件的表达量进行预测
+class PREDICT():   #Predict the sequence expression
     
-    def __init__(self,file_input):  #初始化
+    def __init__(self,file_input):  
         self.file = file_input
         self.model_weight = 'weight_CNN.h5'
         self.CNN_train_num = 10000
