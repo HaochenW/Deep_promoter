@@ -5,6 +5,10 @@ Code for computational models in ["Synthetic Promoter Design in Escherichia coli
 
 We report a novel AI-based framework for de novo promoter design in E. coli, which could design brand new synthetic promoters in silico. We combined deep generative model that guides the search, and a prediction model to pre-select the most promising promoters. 
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/HaochenW/Deep_promoter/blob/master/structure.png">
+</p>
+
 From the experimental results, up to 70.8% of the AI-designed promoters were experimentally demonstrated to be functional and shared no significant sequence similarity with E. coli genome. Here, we introduced the code used for promoter sequences generation, then the promoters could be used for experimental tests.
 
 
