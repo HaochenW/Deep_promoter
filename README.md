@@ -44,7 +44,10 @@ python gan_language.py
 ## Using Convoluational neural network(CNN)/Suppoer Vector Regression (SVR) model to pre-select high-expression promoter sequences
 The CNN model was trained by the dataset from the Thomason et al which contains 14098 promoters with corresponding gene expression level measured by dRNA-seq, and the SVR model was trained by the first round experimental results.
 - Procdure:
-- 1. Store the predicted promoter sequence in .\seq\predicted_promoters.fa
+- 1. Store the predicted promoter sequence in 
+```shell
+.\seq\predicted_promoters.fa
+```
 - 2. Use the predictor by 
 ```shell
 python predictor.py
