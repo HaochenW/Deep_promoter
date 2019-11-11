@@ -42,16 +42,6 @@ The CNN model was trained by the dataset from the Thomason et al which contains 
 
 ## Citation
 Wang Y, Wang H, Liu L, et al. Synthetic Promoter Design in Escherichia coli based on Generative Adversarial Network[J]. BioRxiv, 2019: 563775.
-@article{liu2019hicgan,
-  title={hicGAN infers super resolution Hi-C data with generative adversarial networks},
-  author={Liu, Qiao and Lv, Hairong and Jiang, Rui},
-  journal={Bioinformatics},
-  volume={35},
-  number={14},
-  pages={i99--i107},
-  year={2019},
-  publisher={Oxford University Press}
-}
 
 ## References
 [1]  Gulrajani, I., Ahmed, F., Arjovsky, M., Dumoulin, V., and Courville, A. C. (2017) Improved training of wasserstein gans, In Advances in Neural Information Processing Systems, pp 5767-5777.
