@@ -59,6 +59,8 @@ Wang Y, Wang H, Liu L, et al. Synthetic Promoter Design in Escherichia coli base
 
 ## References
 [1]  Gulrajani, I., Ahmed, F., Arjovsky, M., Dumoulin, V., and Courville, A. C. (2017) Improved training of wasserstein gans, In Advances in Neural Information Processing Systems, pp 5767-5777.
+
+
 [2]  Thomason, M. K., Bischler, T., Eisenbart, S. K., Forstner, K. U., Zhang, A., Herbig, A., Nieselt, K., Sharma, C. M., and Storz, G. (2015) Global transcriptional start site mapping using differential RNA sequencing reveals novel antisense RNAs in Escherichia coli, Journal of bacteriology 197, 18-28.
 
 
